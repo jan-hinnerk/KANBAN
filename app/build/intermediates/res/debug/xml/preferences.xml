@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Email-Einstellungen" android:key="pref_mail_settings">
+        <EditTextPreference android:dialogTitle="Email" android:defaultValue="p.daus@verucon-fasteners.de" android:title="Empfänger" android:key="KEY_EMAIL"/>
+        <EditTextPreference android:dialogTitle="Betreff" android:defaultValue="KANBAN Bestellung" android:title="Betreff" android:key="KEY_SUBJECT"/>
+        <EditTextPreference android:defaultValue="Belibieger Text" android:key="KEY_EMAILBODY" android:title="Emailtext" android:dialogTitle="Emailtext"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Standartwerte" android:key="pref_mail_settings">
+        <EditTextPreference android:defaultValue="15880KAB" android:key="KEY_KdnNR" android:title="Kundennummer" android:dialogTitle="Kundennummer"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Administration" android:key="pref_mail_settings">
+        <Preference android:title="Nach Updates Suchen" >
+            <intent android:action="com.example.kanban.updatechecker"  />
+        </Preference>
+</PreferenceCategory>
+</PreferenceScreen><!-- From: file:/F:/KANBAN/app/src/main/res/xml/preferences.xml -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\KANBAN\app\dropbox-android-sdk-1.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="F:\KANBAN\app\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.6.3-250289de2e6280a5f2fcd90622078a805bee956b.jar" />
+    </item>
+    <item
+        jar="F:\KANBAN\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\KANBAN\app\build\intermediates\pre-dexed\debug\classes-38733277ae9620a228fceebd8e945d6362d1bc13.jar" />
+    </item>
+    <item
+        jar="Y:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\KANBAN\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-06f3a86fb86003d863fbdb80270819b1f937c6af.jar" />
+    </item>
+    <item
+        jar="F:\KANBAN\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\KANBAN\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-b0f8a4a0019d2142200b5244cd7f2b702945cd97.jar" />
+    </item>
+    <item
+        jar="F:\KANBAN\app\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="F:\KANBAN\app\build\intermediates\pre-dexed\debug\json_simple-1.1-4a4658f3ad9230a5bf0efa4a06bfef0c2e5811d5.jar" />
+    </item>
+
+</items>
